@@ -1,0 +1,21 @@
+
+Among more than 400 polls conducted during the last 100 days of the presidential election,
+we removed polls having small survey population. 
+For example, survey #9099 only surveyed people living in Jeju-do, although we need samples from
+both Jeju-do and Gangwon-do (GJJ cluster).
+
+However, we merged some polls that were conducted by the same house, on the same date, with same method.
+For example, if Busan, Ulsan, and Gyeongsangnam-do surveys were conducted separately on the
+same date, method, and house, we merged them according to the population weights announed by the
+Ministry of the Interior and Safety of Korea. Below, we provide survey numbers that we merged.
+
+list of merged polls:
+- 8578 and 8579
+- 8694 and 8695
+- 8765 and 8766
+- 8866 and 8867
+- 8999, 9001, and 9003
+
+Note that response rates are not accurate for merged polls. 
+(one can easily calculate accurate resp.rates, but we did not since we didn't use them for our analysis.)
+

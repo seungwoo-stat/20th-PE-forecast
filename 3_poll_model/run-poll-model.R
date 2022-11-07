@@ -12,6 +12,7 @@ library(ggmcmc)
 
 ################################################################################
 
+y_pred_cluster <- ms_fund_y_pred_cluster
 until <- "2022-01-05"
 poll_multiple_day_subset <- poll_multiple_day[poll_multiple_day$date <= until,]
 

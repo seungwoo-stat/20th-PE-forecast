@@ -30,4 +30,4 @@ Forecasting the four-party vote share of the 20th presidential election of the R
 
 ## Reference
 
--   Seungwoo Kang and Hee-Seok Oh, "Forecasting the Presidential Election of South Korea via Multiparty Dynamic Bayesian Modelling", Aug. 2022, Preprint.
+-   Seungwoo Kang and Hee-Seok Oh. (2023) [Forecasting South Korea's Presidential Election via Multiparty Dynamic Bayesian Modeling](https://doi.org/10.1016/j.ijforecast.2023.01.004). *International Journal of Forecasting*. To appear.
